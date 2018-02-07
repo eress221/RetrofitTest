@@ -1,6 +1,7 @@
 # RetrofitTest
 Android Retrofit Library Test
 
+
 # 요약
 Retrofit Library 테스트 용도입니다.
 
@@ -11,6 +12,7 @@ Retrofit v1.9.0
 ## Retrofit2
 Retrofit v2.3.0
 본래 테스트용 api를 연결해두었지만 코드를 올리면서 api를 제거했습니다. 따라서 화면이 정상적으로 작동되지 않습니다.
+
 
 # 라이브러리
 - [ButterKnife](http://jakewharton.github.io/butterknife/)
